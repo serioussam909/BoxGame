@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: edc9d99981cc0ca41a6fb433f271e38c
+timeCreated: 1454123099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: Box0_Base
+    100004: BoxTopLeft
+    100006: BoxTopRight
+    100008: ButtonTop
+    100010: Drawer1
+    100012: Drawer1HiddenCover
+    100014: Drawer2
+    100016: Drawer3
+    100018: Drawer4
+    100020: //RootNode
+    100022: InitButton
+    100024: Knob
+    100026: KnobTop
+    100028: LargeButton
+    100030: SmallButton
+    100032: SmallDrawer1
+    100034: SmallSliderTop
+    100036: SmallSliderTrack
+    100038: SmallSwitch
+    100040: SmallSwitchSwitch
+    100042: Spinner
+    100044: HourHand
+    100046: MinuteHand
+    100048: Object001
+    400000: Arrow
+    400002: Box0_Base
+    400004: BoxTopLeft
+    400006: BoxTopRight
+    400008: ButtonTop
+    400010: Drawer1
+    400012: Drawer1HiddenCover
+    400014: Drawer2
+    400016: Drawer3
+    400018: Drawer4
+    400020: //RootNode
+    400022: InitButton
+    400024: Knob
+    400026: KnobTop
+    400028: LargeButton
+    400030: SmallButton
+    400032: SmallDrawer1
+    400034: SmallSliderTop
+    400036: SmallSliderTrack
+    400038: SmallSwitch
+    400040: SmallSwitchSwitch
+    400042: Spinner
+    400044: HourHand
+    400046: MinuteHand
+    400048: Object001
+    2300000: Arrow
+    2300002: Box0_Base
+    2300004: BoxTopLeft
+    2300006: BoxTopRight
+    2300008: ButtonTop
+    2300010: Drawer1
+    2300012: Drawer1HiddenCover
+    2300014: Drawer2
+    2300016: Drawer3
+    2300018: Drawer4
+    2300020: InitButton
+    2300022: Knob
+    2300024: KnobTop
+    2300026: LargeButton
+    2300028: SmallButton
+    2300030: SmallDrawer1
+    2300032: SmallSliderTop
+    2300034: SmallSliderTrack
+    2300036: SmallSwitch
+    2300038: SmallSwitchSwitch
+    2300040: Spinner
+    2300042: HourHand
+    2300044: MinuteHand
+    2300046: Object001
+    3300000: Arrow
+    3300002: Box0_Base
+    3300004: BoxTopLeft
+    3300006: BoxTopRight
+    3300008: ButtonTop
+    3300010: Drawer1
+    3300012: Drawer1HiddenCover
+    3300014: Drawer2
+    3300016: Drawer3
+    3300018: Drawer4
+    3300020: InitButton
+    3300022: Knob
+    3300024: KnobTop
+    3300026: LargeButton
+    3300028: SmallButton
+    3300030: SmallDrawer1
+    3300032: SmallSliderTop
+    3300034: SmallSliderTrack
+    3300036: SmallSwitch
+    3300038: SmallSwitchSwitch
+    3300040: Spinner
+    3300042: HourHand
+    3300044: MinuteHand
+    3300046: Object001
+    4300000: Box0_Base
+    4300002: Drawer1
+    4300004: Drawer1HiddenCover
+    4300006: Drawer2
+    4300008: Drawer3
+    4300010: InitButton
+    4300012: SmallDrawer1
+    4300014: LargeButton
+    4300016: BoxTopLeft
+    4300018: BoxTopRight
+    4300020: Drawer4
+    4300022: SmallSliderTrack
+    4300024: SmallSliderTop
+    4300026: SmallSwitch
+    4300028: SmallSwitchSwitch
+    4300030: Knob
+    4300032: KnobTop
+    4300034: SmallButton
+    4300036: ButtonTop
+    4300038: Arrow
+    4300040: Spinner
+    4300042: MinuteHand
+    4300044: HourHand
+    4300046: Object001
+    6400000: Arrow
+    6400002: Box0_Base
+    6400004: BoxTopLeft
+    6400006: BoxTopRight
+    6400008: ButtonTop
+    6400010: Drawer1
+    6400012: Drawer1HiddenCover
+    6400014: Drawer2
+    6400016: Drawer3
+    6400018: Drawer4
+    6400020: InitButton
+    6400022: Knob
+    6400024: KnobTop
+    6400026: LargeButton
+    6400028: SmallButton
+    6400030: SmallDrawer1
+    6400032: SmallSliderTop
+    6400034: SmallSliderTrack
+    6400036: SmallSwitch
+    6400038: SmallSwitchSwitch
+    6400040: Spinner
+    6400042: HourHand
+    6400044: MinuteHand
+    6400046: Object001
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
